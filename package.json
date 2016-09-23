@@ -1,0 +1,22 @@
+{
+  "name": "nocapslocksokay",
+  "version": "1.0.0",
+  "description": "my first npm file for my first git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-nakamura/SJSUGitWorkshop.git"
+  },
+  "author": "ME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ai-nakamura/SJSUGitWorkshop/issues"
+  },
+  "homepage": "https://github.com/ai-nakamura/SJSUGitWorkshop#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
